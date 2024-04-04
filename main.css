@@ -1,0 +1,49 @@
+body {
+    height: 100vh;
+    background: linear-gradient(
+        to right,
+        black 0%,
+        black 50%,
+        #8B0000 50%,
+        #8B0000 100%
+    );
+    color: bisque;
+}
+h1 {
+    margin-left: 700px;
+    font-weight: 100;
+    font-size: 100px;
+    color: cadetblue;
+}
+.img {
+    float: left;
+    
+    /* width: 400px; */
+    /* height: 400px; */
+    /* margin-top: 70px; */
+    
+}
+img {
+    margin-left:  250px;
+    width: 250px;
+    height: auto;
+    border-radius: 25px;
+}
+p{
+    font-size: bold;
+
+}
+.h2 {
+    margin-left: 200px;
+    font-size: 75px;
+}
+.contact{
+    float: right;
+    color: aquamarine;
+}
+p{
+    font-size: 50px;
+}
+h2{
+    font-size: 70px;
+}
